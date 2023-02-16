@@ -1,0 +1,41 @@
+header {
+
+  background-color: royalblue;
+  color: khaki;
+  font-family: fantasy;
+  text-align: center;
+}
+hr {
+  border-width: 10px; 
+  border-color: khaki;
+  border-style: dashed solid;
+  background-color: royalblue;
+}
+body,h1,h2,h3,p,a {
+  margin: 0px;
+  text-shadow: 2px 4px 7px;
+  color: khaki;background-color: royalblue;
+
+}
+h1 {
+  text-transform: uppercase;
+}
+section {
+  text-align: center;
+  font-family: fantasy;
+  background-color: royalblue;
+  color: khaki;
+}
+body {
+  background-color: royalblue;
+  border: 40px royalblue solid;
+  border-color:  khaki ;
+  border-width: 15px;
+  border-style:dashed solid ;
+
+  margin: 10px 200px 10px 200px;
+background-image: url(https://thumbs.gfycat.com/AbleClosedIndigowingedparrot-max-1mb.gif);
+  background-size: 1400px;
+  background-attachment: local, scroll;
+
+  }
